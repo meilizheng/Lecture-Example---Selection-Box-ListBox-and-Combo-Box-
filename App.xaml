@@ -1,0 +1,9 @@
+﻿<Application x:Class="Lecture_Example___Selection_Box___ListBox_and_Combo_Box__.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lecture_Example___Selection_Box___ListBox_and_Combo_Box__"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
